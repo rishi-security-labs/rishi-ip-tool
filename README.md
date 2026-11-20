@@ -94,7 +94,7 @@ rishi-ip-tool/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/rishi-ip-tool.git
+git clone https://github.com/rishi-security-labs/rishi-ip-tool.git
 cd rishi-ip-tool
 
 # 2. Install dependencies
