@@ -108,7 +108,7 @@ python rishi.py
 
 ```powershell
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/rishi-ip-tool.git
+git clone https://github.com/rishi-security-labs/rishi-ip-tool.git
 cd rishi-ip-tool
 
 # 2. Install dependencies
@@ -124,7 +124,7 @@ python rishi.py
 pkg update && pkg upgrade
 pkg install python git
 pip install flask requests colorama
-git clone https://github.com/YOUR_USERNAME/rishi-ip-tool.git
+git clone https://github.com/rishi-security-labs/rishi-ip-tool.git
 cd rishi-ip-tool
 python rishi.py
 ```
